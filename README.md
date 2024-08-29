@@ -1,2 +1,4 @@
 # Memory-Game
-Creating memory game form elzero web school channel with adding extra improvements
+Creating a memory inspired by Elzero Web School channel with adding extra improvements;
+
+Improvements such as ( Timer ,Table dispalyes player name , date which he played in and wrong tries)
